@@ -15,11 +15,6 @@ header {
     /* border: 2px solid black; */
 }
 
-.photo {
-    width: 100px;
-    height: 130px;
-}
-
 .name_inform {
     width: 65%;
     line-height: 1.5rem;
