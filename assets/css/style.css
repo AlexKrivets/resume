@@ -1,7 +1,7 @@
 body {
     background-color: #ffffff;
     width: 540px;
-    height: 842px;
+    /* height: 842px; */
     border: 2px solid black;
     margin: 0 auto;
 }
@@ -45,7 +45,7 @@ header {
 .photo_inform {
     /* width: 35%; */
     text-align: left;
-    margin-top: 2rem;
+    margin-top: 1rem;
     margin-left: 1.5rem;
     /* padding-right: 2rem; */
     /* border: 2px solid black; */
@@ -57,7 +57,7 @@ section {
     padding: 0 2.5rem;
     font-family: 'Arial';
     font-style: normal;
-    margin-top: 3rem;
+    margin-top: 1rem;
     font-size: 1.1rem;
 }
 
