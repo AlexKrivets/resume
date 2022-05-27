@@ -100,3 +100,14 @@ a {
     text-decoration: none;
     color: inherit;
 }
+
+.about {
+    padding-left: 25px;
+    padding-right: 35px;
+    color: #101214;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-top: 0.2rem;
+}
